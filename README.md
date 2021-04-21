@@ -13,7 +13,7 @@
 PSQL_DB_HOST=<>;PSQL_DB_PORT=<>;PSQL_DB_NAME=<>;PSQL_DB_USERNAME=<>;PSQL_DB_PASSWORD=<>
 - Replace '<>' with your credentials.
 - clone repository
-The following commands will compile, install, run each submodules: $ mvn compile && mvn install && mvn run
+### The following commands will compile, install, run each submodules: $ mvn compile && mvn install && mvn run
 ### Run order: 
 1. eureka-registry
 2. auth-service && game-service
